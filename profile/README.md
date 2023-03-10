@@ -5,6 +5,7 @@
 - email: hodovychenko@op.edu.ua
 - telegram: @MykolaHdv
 - github: @MykolaHodovychenko
+
 Викладач: Смик Сергій Юрійович
 
 ## Телеграм-канал дисципліни
